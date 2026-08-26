@@ -1,3 +1,4 @@
+_[← Learning Hub](https://github.com/second-hand-tigers)_
 # Career Learnings Directory
 
 A directory of contributor repos in the [second-hand-tigers](https://github.com/second-hand-tigers)
@@ -43,8 +44,3 @@ interested in contributing your own.
 *(Whether this naming pattern becomes a formal requirement, and whether
 contributor repos are set up as GitHub template repos, is still being
 decided as the pilot matures.)*
-
-## Related
-
-- [second-hand-tigers](https://github.com/second-hand-tigers) — org hub
-- [chem-eng-projects](https://github.com/second-hand-tigers/chem-eng-projects) — Process Engineering project repos (complementary technical-project track)
