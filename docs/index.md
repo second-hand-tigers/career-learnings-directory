@@ -3,7 +3,8 @@ layout: default
 title: Career Learnings Directory
 ---
 
-_[← Learning Hub](https://github.com/second-hand-tigers) · [Site](https://second-hand-tigers.github.io/)_
+_[← Learning Hub](https://second-hand-tigers.github.io/)_<br>
+_[Toggle to Repo View](https://github.com/second-hand-tigers/career-learnings-directory)_
 
 # Career Learnings Directory
 
