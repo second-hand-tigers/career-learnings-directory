@@ -28,7 +28,7 @@ happens to catch their eye. Either path in is a good one.
 
 | Contributor | Repo | Focus |
 |---|---|---|
-| Bill Docter | [badocter-career-learnings](../badocter-career-learnings) | Technical career stages, communication & marketing, mentoring, stress management, and career-lesson case studies drawn from a 27-year process control/RTO career at ExxonMobil |
+| Bill Docter | [badocter-career-learnings](https://github.com/second-hand-tigers/badocter-career-learnings) | Technical career stages, communication & marketing, mentoring, stress management, and career-lesson case studies drawn from a 27-year process control/RTO career at ExxonMobil |
 
 *(This list will grow as more experienced engineers join the network. See
 [Building Your Own Career-Learnings Network Repo and Wiki](https://github.com/second-hand-tigers/career-learnings-directory/wiki/Building-Your-Own-Career-Learnings-Network-Repo-and-Wiki)
