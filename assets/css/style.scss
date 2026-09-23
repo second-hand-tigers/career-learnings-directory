@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Tighter Slate banner */
+#header_wrap .inner {
+  padding: 0px 10px 0px;
+}
+
+#project_title {
+  font-size: 32px;
+}
+
+#project_tagline {
+  font-size: 18px;
+}
