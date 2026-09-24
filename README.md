@@ -52,3 +52,6 @@ career content than the next project milestone; someone deep in a design
 project might not think about career development until a mentor's page
 happens to catch their eye. Either path in is a good one.
 
+---
+
+**License:** © 2026 William Docter. This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may copy, redistribute, remix, and build upon this material, including for commercial purposes, provided you give appropriate credit to William Docter and indicate if changes were made.
