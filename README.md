@@ -27,6 +27,7 @@ that focus on technical project execution.
 | [Pop Culture Career Lessons](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Pop-Culture-Career-Lessons) | Nine films and shows — from Han Solo and Nedry to Neo and the Dread Pirate Roberts — as career-lesson vehicles |
 
 ## Contributor Career Paths and Timelines
+
 | Contributor | Personal Overview | Career Timeline | Career Learnings Hub |
 |---|---|---|---|
 | William Docter, Ph.D. | [Who is Dr. Docter?](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Who-is-Dr-Docter) | [Dr. Docter's Career Timeline](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Career-Timeline) | [Dr. Docter's Learnings](https://github.com/second-hand-tigers/badocter-career-learnings) |
