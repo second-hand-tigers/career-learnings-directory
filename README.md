@@ -31,6 +31,11 @@ that focus on technical project execution.
 |---|---|---|---|
 | William Docter, Ph.D. | [Who is Dr. Docter?](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Who-is-Dr-Docter) | [Dr. Docter's Career Timeline](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Career-Timeline) | [Dr. Docter's Learnings](https://github.com/second-hand-tigers/badocter-career-learnings) |
 
+*(This list will grow as more experienced engineers join the network. See
+[Building Your Own Career-Learnings Network Repo and Wiki](https://github.com/second-hand-tigers/career-learnings-directory/wiki/Building-Your-Own-Career-Learnings-Network-Repo-and-Wiki)
+for how these repos are structured — including if you want to replicate
+the pattern for your own organization.)*
+
 ## Why Two Kinds of Content
 
 Project work and career development happen in parallel, not in sequence —
@@ -47,7 +52,3 @@ career content than the next project milestone; someone deep in a design
 project might not think about career development until a mentor's page
 happens to catch their eye. Either path in is a good one.
 
-*(This list will grow as more experienced engineers join the network. See
-[Building Your Own Career-Learnings Network Repo and Wiki](https://github.com/second-hand-tigers/career-learnings-directory/wiki/Building-Your-Own-Career-Learnings-Network-Repo-and-Wiki)
-for how these repos are structured — including if you want to replicate
-the pattern for your own organization.)*
