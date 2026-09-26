@@ -13,6 +13,7 @@ that focus on technical project execution.
 
 | Page | Description |
 |---|---|
+| [Making the Most of College](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Making-the-Most-of-College) | Co-op, extracurriculars, undergrad research, and grad school — the choices that shape your career long before the job hunt.  Start here if you are still in school! |
 | [The Job Hunt](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Job-Hunt) | Resumes, LinkedIn, and Interview Prep — writing the documents and working the room.  Start here if you are looking for a job! |
 | [The Renaissance Engineer](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Renaissance-Engineer) | The Leadership, Business, Interpersonal, Technical (LBIT) career stage and development framework, mentoring across a career, and the "Sliced Bread" patent case study.  Start here if you have already secured a position and are looking to hit the ground running and take the next steps |
 | [The Needs of the Many](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Needs-of-the-Many) | The same development, staffing, and communication material above, gathered for whoever is now responsible for someone else's growth and workload.  Start here if you are a manager or leader |
@@ -23,7 +24,6 @@ that focus on technical project execution.
 | Page | Description |
 |---|---|
 | [Above the Line](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Work-Life-Balance) | Personal resilience story, practical coping strategies, and balancing team Full Time Equivalent (FTE) capacity against workload |
-| [Considerations for Grad School](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Considerations-for-Grad-School) | Funding, choosing a doctoral path, transferable skills |
 | [Pop Culture Career Lessons](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Pop-Culture-Career-Lessons) | Nine films and shows — from Han Solo and Nedry to Neo and the Dread Pirate Roberts — as career-lesson vehicles |
 
 ## Contributor Career Paths and Timelines
