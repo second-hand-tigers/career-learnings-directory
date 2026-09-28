@@ -1,6 +1,6 @@
 # License
 
-Copyright © 2026 William Docter and Second-Hand Tigers.
+Copyright © 2026 William Docter and Second-Hand Tigers contributors.
 
 Unless otherwise noted, the written content in this repository, including its wiki, is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). The [Full Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode) is the binding license.
 
